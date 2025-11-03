@@ -1,0 +1,225 @@
+author: Mollick, Ethan R. and Mollick, Lilach
+author_list:
+- affiliation: []
+  family: Mollick
+  given: Ethan R.
+- affiliation: []
+  family: Mollick
+  given: Lilach
+citations:
+- article-title: 'Making things hard on yourself, but in a good way: Creating desirable
+    difficulties to enhance learning'
+  author: E L Bjork
+  first-page: '59'
+  journal-title: 'Psychology and the real world: Essays illustrating fundamental contributions
+    to society'
+  volume: '2'
+  year: '2011'
+- author: P C Brown
+  journal-title: Make it stick
+  year: '2014'
+- author: B Carey
+  journal-title: 'How we learn: the surprising truth about when, where, and why it
+    happens'
+  year: '2015'
+- article-title: 'Observing tutorial dialogues collaboratively: Insights about human
+    tutoring effectiveness from vicarious learning'
+  author: M T Chi
+  doi: 10.1080/03640210701863396
+  first-page: '301'
+  issue: '2'
+  journal-title: Cognitive science
+  volume: '32'
+  year: '2008'
+- article-title: Learning from human tutoring
+  author: M T Chi
+  doi: 10.1207/s15516709cog2504_1
+  first-page: '471'
+  issue: '4'
+  journal-title: Cognitive science
+  volume: '25'
+  year: '2001'
+- author: L Deslauriers
+  first-page: '19251'
+  journal-title: Measuring actual learning versus feeling of learning in response
+    to being actively engaged in the classroom
+  volume: '116'
+  year: '2019'
+- article-title: 'Learning by thinking: How reflection aids performance'
+  author: G Di Stefano
+  doi: 10.5465/ambpp.2015.12709abstract
+  journal-title: Academy of Management Proceedings
+  volume: '2015'
+  year: '2015'
+- article-title: 'Improving Students'' Learning with Effective Learning Techniques:
+    Promising Directions from Cognitive and Educational Psychology'
+  author: J Dunlosky
+  doi: 10.1177/1529100612453266
+  first-page: '4'
+  journal-title: Psychological Science in the Public Interest
+  volume: '14'
+  year: '2013'
+- author: A C Edmondson
+  journal-title: 'The fearless organization: Creating psychological safety in the
+    workplace for learning, innovation, and growth'
+  year: '2018'
+- article-title: The role of deliberate practice in the acquisition of expert performance
+  author: K A Ericsson
+  doi: 10.1037/0033-295X.100.3.363
+  issue: '3'
+  journal-title: Psychological review
+  volume: '100'
+  year: '1993'
+- author: A Ericsson
+  journal-title: 'Peak: Secrets from the new science of expertise'
+  year: '2016'
+- article-title: Making Sense of Generative Learning
+  author: L Fiorella
+  doi: 10.1007/s10648-023-09769-7
+  issue: '2'
+  journal-title: Educational Psychology Review
+  volume: '35'
+  year: '2023'
+- author: L Fiorella
+  doi: 10.1017/CBO9781107707085
+  journal-title: Learning as a generative activity
+  year: '2015'
+- article-title: The secrets of great teamwork
+  author: M Haas
+  journal-title: Harvard Business Review
+  year: '2016'
+- author: J R Hackman
+  journal-title: 'Collaborative intelligence: Using teams to solve hard problems'
+  year: '2011'
+- author: H C Hill
+  journal-title: 'Learning recovery: The research on tutoring, extended school year,
+    and other strategies'
+  year: '2021'
+- author: P Kirschner
+  doi: 10.4324/9780429061523
+  journal-title: 'How learning happens: Seminal works in educational psychology and
+    what they mean in practice'
+  year: '2020'
+- author: P Kirschner
+  journal-title: No Feedback, No Learning. 3-Star Learning Experiences
+  year: '2018'
+- article-title: Performing a project premortem
+  author: G Klein
+  first-page: '18'
+  issue: '9'
+  journal-title: Harvard business review
+  volume: '85'
+  year: '2007'
+- author: M Kraft
+  journal-title: Accelerating Student Learning with High-Dosage Tutoring
+  year: '2021'
+- article-title: 'Self-distancing: Theory, research, and current directions'
+  author: E Kross
+  doi: 10.1016/bs.aesp.2016.10.002
+  first-page: '81'
+  journal-title: Advances in experimental social psychology
+  volume: '55'
+  year: '2017'
+- author: P Mccrea
+  journal-title: 'Developing expert teaching: A practical guide to designing effective
+    professional development, for others and ourselves'
+  year: '2023'
+- article-title: Learning from errors
+  author: J Metcalfe
+  doi: 10.1146/annurev-psych-010416-044022
+  first-page: '465'
+  journal-title: Annual review of psychology
+  volume: '68'
+  year: '2017'
+- article-title: 'Back to the future: Temporal perspective in the explanation of events'
+  author: D J Mitchell
+  doi: 10.1002/bdm.3960020103
+  first-page: '25'
+  issue: '1'
+  journal-title: Journal of Behavioral Decision Making
+  volume: '2'
+  year: '1989'
+- author: E R Mollick
+  journal-title: 'New Modes of Learning Enabled by AI Chatbots: Three Methods and
+    Assignments'
+  year: '2022'
+- author: E R Mollick
+  journal-title: 'Using AI to implement effective teaching strategies in classrooms:
+    Five strategies'
+  year: '2023'
+- author: Openai
+  journal-title: GPT-4 technical report
+  year: '2023'
+- author: D N Perkins
+  first-page: '6452'
+  journal-title: Transfer of learning. International encyclopedia of education
+  volume: '2'
+  year: '1992'
+- article-title: 'The power of examples: Illustrative examples enhance conceptual
+    learning of declarative concepts'
+  author: K A Rawson
+  doi: 10.1007/s10648-014-9273-3
+  first-page: '483'
+  journal-title: Educational Psychology Review
+  volume: '27'
+  year: '2015'
+- article-title: 'Understanding tutor learning: Knowledge-building and knowledge-telling
+    in peer tutors'' explanations and questions'
+  author: R D Roscoe
+  doi: 10.3102/0034654307309920
+  first-page: '534'
+  issue: '4'
+  journal-title: Review of educational research
+  volume: '77'
+  year: '2007'
+- author: D A Sch�n
+  journal-title: 'Educating the reflective practitioner: Toward a new design for teaching
+    and learning in the professions'
+  year: '1987'
+- article-title: Navigating into the future or driven by the past
+  author: M E Seligman
+  doi: 10.1177/1745691612474317
+  first-page: '119'
+  issue: '2'
+  journal-title: Perspectives on psychological science
+  volume: '8'
+  year: '2013'
+- author: T Sherrington
+  journal-title: Rosenshine's principles in action
+  year: '2020'
+- journal-title: 'Artificial Intelligence and Future of Teaching and Learning: Insights
+    and Recommendations'
+  year: '2023'
+- article-title: Teachers and Students Embrace ChatGTP For Education
+  journal-title: Seven keys to effective feedback
+  year: '2015'
+- author: D T Willingham
+  journal-title: 'Why don''t students like school?: A cognitive scientist answers
+    questions about how the mind works and what it means for the classroom'
+  year: '2021'
+- author: D T Willingham
+  journal-title: 'Outsmart Your Brain: Why Learning is Hard and How You Can Make It
+    Easy'
+  year: '2023'
+- article-title: What is assessment for learning
+  author: D Wiliam
+  doi: 10.1016/j.stueduc.2011.03.001
+  first-page: '3'
+  journal-title: Studies in educational evaluation
+  volume: '37'
+  year: '2011'
+- author: D Wiliam
+  journal-title: Embedding formative assessment
+  year: '2016'
+doi: 10.2139/ssrn.4475995
+files: []
+journal: SSRN Electronic Journal
+language: en
+papis_id: 596aabf3a20d588ed68c2fe94f20d348
+publisher: Elsevier BV
+ref: Assigning_AI_S_Mollic_2023
+time-added: 2025-11-03-21:25:05
+title: 'Assigning AI: Seven Approaches for Students, with Prompts'
+type: article
+url: https://doi.org/10.2139/ssrn.4475995
+year: 2023
